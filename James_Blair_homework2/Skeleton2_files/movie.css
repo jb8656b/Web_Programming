@@ -1,0 +1,64 @@
+h1{
+  text-align: center;
+}
+#container{
+  max-width: 980px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("moviebg.png");
+  border-radius: 15px;
+}
+#banner{
+  min-width: 100%;
+  max-width: 100%;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#sidebar{
+  float: right;
+  background-color: lightgreen;
+  max-width: 250px;
+  border-radius: 15px;
+  font-family: sans-serif;
+  display: inline-block;
+  font-size: 9.5pt;
+}
+#sidebar img{
+  border-radius: 15px;
+}
+#score{
+  font-size: 40pt;
+  color: red;
+  font-family: sans-serif;
+  background-image: url("rottenlargebg.png");
+}
+.review{
+  border: 2px solid gray;
+  border-radius: 20px;
+  margin-right: 10px;
+  background-color: white;
+  width: 350px;
+  display: block;
+}
+.reviewleft{
+  float: left;
+}
+.reviewright{
+  float: right;
+}
+#validation{
+  float: right;
+}
+#pages{
+  text-align: center;
+  padding: 25px;
+}
+dt{
+  font-weight: bold;
+}

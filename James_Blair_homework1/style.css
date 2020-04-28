@@ -1,0 +1,93 @@
+h1{
+  font-family: cursive;
+  color: darkred;
+  text-align: center;
+  font-size: 30pt;
+}
+ul{
+  list-style-type: none;
+  margin-left: 150px;
+  padding: 5px;
+  max-width: 900px;
+  background-color: darkorange;
+
+}
+ul a{
+  color: white;
+}
+li{
+  display: inline;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: white;
+  font-size: 16pt;
+  padding: 15px;
+}
+#SunflowerLogo{
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+  height: 75px;
+}
+p{
+  font-family: sans-serif;
+  color: white;
+}
+#content{
+  align-items: center;
+  align-content: center;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#container{
+  width: 1200px;
+  background-color: inherit;
+  margin-left: auto;
+  margin-right: auto;
+}
+#header{
+  margin-left: auto;
+  margin-right: auto;
+}
+#NavbarArea{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+}
+#CoffeeBags{
+  width: 900px;
+}
+.Info{
+  text-align: center;
+}
+.SocialMedia{
+  float: right;
+  height: 50px;
+}
+#colored{
+  background-color: darkorange;
+  margin-top: 75px;
+}
+
+#newsletter{
+  color: darkred;
+  font-family: "futura";
+  text-align: right;
+  margin-right: 100px;
+}
+
+form{
+  float: right;
+}
+
+table{
+  width: 100%;
+  border: 1px solid white;
+}
+
+table, th, td{
+  height: 100px;
+  border: 1px solid white;
+  text-align: center;
+}
